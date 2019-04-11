@@ -15,9 +15,10 @@ a {
 }
 
 .header {
+  text-align: center; //align text
   background: #fff;
   color: #000;
-  height: 500px;
+  height: 600px;
   padding: 30px 30px 30px;
 }
 
