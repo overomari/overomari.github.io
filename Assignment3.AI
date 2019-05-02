@@ -1,0 +1,194 @@
+%!PS-Adobe-3.0
+%%Creator: Rhinoceros
+%%Title: (Assignment3.AI)
+%%BoundingBox: -343 -292 8263 361
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cmykcolor 1.1 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_typography_AI3 1.0 0
+%%+ procset Adobe_IllustratorA_AI3 1.0 0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 288 384 288 384
+%AI3_TileBox: 0 0 576 768
+%AI3_DocumentPreview: None
+%%Template:
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cmykcolor 1.1 0
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_typography_AI3 1.0 0
+%%IncludeResource: procset Adobe_IllustratorA_AI3 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_cmykcolor /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_typography_AI3 /initialize get exec
+Adobe_IllustratorA_AI3 /initialize get exec
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 -1 0 0 0 Lb
+(Default) Ln
+0 A
+0 R
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+0.0000 360.0000 m
+-342.3803 111.2461 L
+-211.6027 -291.2461 L
+211.6027 -291.2461 L
+342.3803 111.2461 L
+0.0000 360.0000 L
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+0.0000 360.0000 m
+-342.3803 111.2461 L
+-211.6027 -291.2461 L
+211.6027 -291.2461 L
+342.3803 111.2461 L
+0.0000 360.0000 L
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+720.0000 360.0000 m
+377.6197 111.2461 L
+508.3973 -291.2461 L
+931.6027 -291.2461 L
+1062.3803 111.2461 L
+720.0000 360.0000 L
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+1440.0000 360.0000 m
+1097.6197 111.2461 L
+1228.3973 -291.2461 L
+1651.6027 -291.2461 L
+1782.3803 111.2461 L
+1440.0000 360.0000 L
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+2160.0000 360.0000 m
+1817.6197 111.2461 L
+1948.3973 -291.2461 L
+2371.6027 -291.2461 L
+2502.3803 111.2461 L
+2160.0000 360.0000 L
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+2880.0000 360.0000 m
+2537.6197 111.2461 L
+2668.3973 -291.2461 L
+3091.6027 -291.2461 L
+3222.3803 111.2461 L
+2880.0000 360.0000 L
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+3600.0000 360.0000 m
+3257.6197 111.2461 L
+3388.3973 -291.2461 L
+3811.6027 -291.2461 L
+3942.3803 111.2461 L
+3600.0000 360.0000 L
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+4320.0000 360.0000 m
+3977.6197 111.2461 L
+4108.3973 -291.2461 L
+4531.6027 -291.2461 L
+4662.3803 111.2461 L
+4320.0000 360.0000 L
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+5040.0000 360.0000 m
+4697.6197 111.2461 L
+4828.3973 -291.2461 L
+5251.6027 -291.2461 L
+5382.3803 111.2461 L
+5040.0000 360.0000 L
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+5760.0000 360.0000 m
+5417.6197 111.2461 L
+5548.3973 -291.2461 L
+5971.6027 -291.2461 L
+6102.3803 111.2461 L
+5760.0000 360.0000 L
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+6480.0000 360.0000 m
+6137.6197 111.2461 L
+6268.3973 -291.2461 L
+6691.6027 -291.2461 L
+6822.3803 111.2461 L
+6480.0000 360.0000 L
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+7200.0000 360.0000 m
+6857.6197 111.2461 L
+6988.3973 -291.2461 L
+7411.6027 -291.2461 L
+7542.3803 111.2461 L
+7200.0000 360.0000 L
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+7920.0000 360.0000 m
+7577.6197 111.2461 L
+7708.3973 -291.2461 L
+8131.6027 -291.2461 L
+8262.3803 111.2461 L
+7920.0000 360.0000 L
+s
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_IllustratorA_AI3 /terminate get exec
+Adobe_typography_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_cmykcolor /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF
