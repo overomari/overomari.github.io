@@ -14,86 +14,78 @@
         <div class="header">
             <h1>Assignment 6: You've Got Mold</h1>
             <p>
-            <img src="Final.JPG" width=400></a>
+            <img src="Final_Molds.JPG" width=400></a>
             </p>
     </div>
             <p>
                <br> <b>Assignment 6</b>
 
-<p>For this assignment, I found the concept of the joining methods really daunting, before realizing that it was something that we had been working towards throughout the quarter.
+<p>Death Star Ice Cubes. They're amazing and as a massive Star Wars nerd, molding the Death Star was something I knew I wanted to do immediately. Not to actually use as ice cubes, but I was familiar with the idea of using cool stuff (and silicone) to mold things. Not only would it be a fun experience, but I figured I might <i>actually</i> make something cool.
 
-    <br>I was struggling to conceptualize how to create a cube that would be joined only by their joints, but I realized that the concepts could apply to any 3D shape, and I started thinking about how to design 3D shapes in 2D, and looking up various nets (going back to like 3rd grade, I think that's what they're called). Once again, I turned to triangles (as my favorite shape), and could create a pyramid that would fulfill the requirements of the assignment, using something like a tongue and groove joint.
+    <br>Off to Thingiverse I go!</br>
+  </p>
+
+<p>Almost immediately I found my enthuasism for crafting Imperial Bases with incredibly stupid design flaws was matched with the online community, and I found several designs to choose from.
     </p>
 
-<p> <img src="Net.png" width=400></a>
+<p> <img src="Thingiverse.png" width=400></a>
 </p>
 
-<p>I originally planned on creating the shapes needed in OnShape, but I found it actually quite hard to create the simple outlines, so I decided to turn to Illustrator.
-<br>Using concepts we learned earlier in class, I measured the notches to match the thickness of the FR1, and created an "artboard" that was the size of the FR1 to determine what shapes I could fit on one piece.
-<br>I then created the designs of the square pyramid, creating one base piece, with inserts on each side where the base of the triangle sides would latch in, followed by 4 triangles, 2 of a "male" piece with a tab on the sides, and 2 of a "female" piece, that would have an inset where the tabs could fit in.
-<br>After making sure the tabs were the same sizes (15 mm), I exported them into .DXF file and prepared to move to the next step, KiCAD.
+<p>After downloading this mold, I felt in pretty good shape, as I was able to manipulate the .stl as needed (scaling), and prepare it for milling.
+
+  <p> <img src="Wires.png" width=400></a>
+  </p>
+<p>
+<br>I then encountered a series of errors in Fusion that would not allow me to properly map and complete my toopaths.
+<br><i>shocker.</i>
+
+<p> <img src="Wax.JPG" width=400></a>
+</p>
+<p>
+<br>I figured I wouldn't worry about it too much, and would get help milling from office hours on Sunday. Due to time contraints, I wasn't able to get my piece milled, but the time was very helpful for me regardless. I redesigned my pieces and was ready to 3D print.
 </p>
 
-
-</p>
-    <p>Here, is where I made a critical error. Repeatedly. For several hours.
-<br>When importing to KiCAD, I was not changing the graphic layer it was importing to into Edge.Cuts. I did not realize I had to make that change there, and simply imported my DXF files and then saved the project to a Gerber file, where in the output settings I selected Edge.Cuts only.
-    <p> <img src="dumb.png" width=400></a>
+<p> <img src="3D_Slice.png" width=400></a>
 </p>
 
-<p>This simple import error would cause me much headache, as I would receive an error when trying to import the Gerber file into Bantam Tools
+<p>I realized I was misunderstanding the assignment, and that I would need to <b>create</b> a mold before <b>casting</b> it. Thus, my designs would work for the first mold that I make, but any subsequent casts would not capture the design.
+  <br>It was here where I realized:
+  <br>1. I needed to 3D print to save time and effort, and also to see if I could get more comfortable with the technique, and
+  <br>2. Peter saved my life by helping me redesign my molds
 </p>
-  <p> <img src="Save_Error.png" width=400></a>
-</p>
-<p><b>Major shoutout to Hannah N.</b> for helping me realize my mistake and getting me importing my DXF's correctly, and the yellow color in KiCAD confirmed it!
-<br> <img src="KiCAD.png" width=400></a>
-
-<br>After this, I had to take a pause in my designs as I did not have my FR1 at this point, nor was I able to mill
+<p> <img src="Star_STL.png" width=400></a>
 </p>
 
-<p><img src="loading.jpg" width=400></a>
+<p>I 3D printed the above STL and it turned out great! From here on, it was simple as following form and allowing enough time to complete the molds.
 </p>
 
-<p>Once I was able to get to The Mill, to mill (nice), I had a pretty easy time getting everything set up in Bantam tools.
-
-<p><img src="Bantam1.png" width=400></a>
+<p> <img src="3D_Print.JPG" width=400></a>
 </p>
 
-<p><img src="Bantam2.png" width=400></a>
+<p> I followed the instructions and mixed the silicone and filled my 3D print mold.
 </p>
-
-
-<p>After many false starts, I figured out that TAPE is the big key for successful milling on the BantamBox.
-<br><img src="Broken.JPG" width=400></a>
-
-<br>Once I figured out how to properly use <b>tape</b>, I was in BUSINESS.
-<p><img src="Square.gif" width=400></a>
+<p> <img src="OOMOO.JPG" width=400></a>
 </p>
-
-<p><img src="Triangle.gif" width=400></a>
+<p>After setting pretty much overnight, we were ready to go with a pretty decent mold!
+<p> <img src="Mold.JPG" width=400></a>
 </p>
-
-<p> I did notice some weird behavior while milling, and I believe it is due to the inaccurate settings of my z placement in Bantam.
-  <br><img src="Cutting.png" width=400></a>
-<br>It also appears that I "double cut" my pieces due to that error in thickness setting, so that I ended up with way more pieces than I intended or needed!
-<br><img src="Pieces.JPG" width=400></a>
-
-<p>Upon assembly, I found that some of my pieces did not "finish" milling correctly and had jagged edges or leftover bits. This, in combination with a lack of accounting for collision between pieces (all sides of the trinagle were the same, when in reality 2 of them should have had slightly shorter bases), meant the fit was not as snug as I would have preferred. All in all, I am pretty happy with the fact that I got any pieces at all!
+<p> Big shoutout to Lukas for providing a ton of the plaster / cement stuff to mold from! This part was super simple in comparison t the rest of the assignment, and made me almost feel like a grade school kid experimenting.
 </p>
-
+<p> <img src="Casting.JPG" width=400></a>
+</p>
+<p>Rinse and repeat four more times and I end up with my nearly perfect fleet of fully operational battlestations that will decimate the rebel fleet! (There are no stupid design flaws in mine, at least not intentionally!)
+  <p> <img src="Final_Molds.JPG" width=400></a>
+  </p>
   <p><b>Reflection</b>
-<br>Once I got the stickiness down, I quite enjoyed watching the mill roll through the FR1 with ease, and I actually kind of found it theraputic in a way! Although my pieces didn't turn out the way I wanted them to, I definitely see the big difference between additive and subtractive fabrication, and the challenges that come with each!
-
-<br><img src="Pyramid.JPG" width=400></a>
+<br>This project taught me time management. With the OOMOO taking 6 hours to cure, and a holiday weekend (that I wanted to enjoy), I wanted to make sure I was able to complete this project as soon as possible, especially considering I was not making JUST one thing. While I orginally planned on milling (and subsequently bought the machinable wax), I realized that for a variety of reasons it would not be the best course for me to take, so I relied on the handy dandy 3D printing.
 
                 <p><b>Shout Outs:</b>
-<br>Shout outs to: Hannah N for saving the rest of my hair, and Mill staff for bearing with me while being super frustrated
+<br>Shout outs to: Peter C. for helping me figure out I was designing backwards and giving me advice for fixing my STL, to Kira for sharing her <b>OOMOO</b>, and to Lukas for sharing his plaster with the class!
             </p>
 
  <p><b>Source Files:</b>
-     <br><a href="Triangle1.dxf">DXF (Triangle) File</a>
-     <br><a href="Triangle2.dxf">DXF (Triangle 2)</a>
-     <br><a href="Base.dxf">DXF (Base)</a>
+     <br><a href="https://www.thingiverse.com/thing:2189584/files">Thingiverse Link</a>
+     <br><a href="Single_Best_Star.stl">STL File</a>
 </p>
         </div>
 
