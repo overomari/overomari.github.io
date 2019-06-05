@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+
+        <title>Omari's HCDE 598 Digital Fabrication Page!</title>
+
+        <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+
+    </head>
+    <body>
+
+        <div class="header">
+            <h1>Assignment 8: Final Project</h1>
+            <p>
+            <img src="Final_Project.JPG"></a>
+            </p>
+    </div>
+            <p>
+               <br> <i>“Everything in this world is magic, except for the magician.” /i>
+
+
+<p><b>Westworld “Maze” Lamp</b>
+</p>
+
+<p>Coming in with some (maybe misplaced) confidence, I felt <b>good</b> about this project. I had a solid theme, and I felt like I knew exactly what I wanted to do.
+
+<br>The main theme of the project is based on a design that appears frequently in the HBO series, Westworld. Without spoilers, this design will mimic the pattern, while also incorporating a coexisting but contrasting design that mimics that design associated with the human brain, which embraces the concept of duality and consciousness that the show highlights. 
+</p>
+<p>
+<img src="maze.png">
+</p>
+
+<p>I had sourced the designs I wanted (shoutout to Reddit) and grabbed them as .SVG files so that I could make sure they vectors and would be good for laser cutting. After sourcing those designs, I moved onto the next major component, which was creating the actual lamp container.
+</p>
+<p>
+<img src="brain.png">
+</p>
+<p>The actual design of the lamp was very simple, it is a set of concentric cylinders (the inner cylinder was made to hold the LED lamp). The hardest part of this design was cutting the slots into the shape where the “lampshades” would slot in. Additionally, this was not a part of the design that I could create before sourcing my materials. 
+</p>
+<p>
+<img src="Final_Sketch.png">
+</p>
+<p>Because my original lamp project was a dud, I wanted to create something that I could have in my home as an actual physical artifact from my time in the HCDE program. I also wanted something that would be commensurate with my skill level, as I have had a hard time with a lot of the designs during this course. I figured that I actually enjoy laser cutting and 3D printing, and that those two processes would make a lot of sense to combine for a final project. Additionally, I would have to use a CAD program anyway, and the parts would have to intersect in some precise manner so that would count for interlocking parts (I wasn’t sure if interchangeable “lamp shades” would count as a moving part!).
+</p>
+
+<p><img src="Slots.png">
+</p>
+
+<p><b>Day 1</b>
+</p>
+
+<p>Luckily I was able to acquire what I needed at the MILL on Wednesday night (5/29), and I was able to measure the thicknesses of the 2 materials (Acrylic = .141 inches thick, Wood = .195 inches thick). Once I had these measurements, I was able to create the slots in the material. However, in my initial designs/sketches, I did not think through the materials having differing thicknesses, so I assumed the slots would be interchangeable. With this new information, I designed the wood would be the first slot since it was thicker, followed by the acrylic. Since I would not be able to interchange the materials in the slots, I designed to duplicate both designs on both materials to allow some variety. 
+</p>
+
+<p><img src="3D_Shell.png">
+</p>
+
+<p>After spending all day anxiously 3D printing at the MILL, and waiting to laser cut my shades (waiting behind a sorority raster, go figure), I decided to call it quits and collect my parts the next day and be first in line at the MILL to cut.
+</p>
+
+<p><b>Day 2</b>
+</p>
+
+<p>My print was ready, and it “turned out”, although I realized the supports started to run into each other as they did not have enough layers in between where the open slots were supposed to be. I figured I could clean it out with a razor, but that would be time consuming, potentially dangerous, and I would lose some precision with the fit. Additionally, the layers were very stringy and just not looking 100% anyway. I kept that part as a just in case, but made some edits to my file to make the cylinder bigger, and adjust the spacing between layers to account for the supports.
+</p>
+
+<p><img src="Anxiety.JPG">
+</p>
+
+
+<p><img src="Print_1.JPG">
+</p>
+
+<p>Simultaneously, I was able to laser cut both the acrylic and wood without issue. I realized that I had some options in terms of what I wanted the designs to be, so I had duplicates of each design, and started to play with how I wanted the light to shine through. I also verified that the thicknesses in my design were accurate using my slightly busted original print.
+</p>
+
+<p><img src="Cuts.PNG">
+</p>
+
+<p><img src="Laser.JPG">
+</p>
+
+<p><img src="Shades.JPG">
+</p>
+
+<p><b>Day 3</b>
+</p>
+
+<p>High hopes today! The Fluke slicer for the 3D printer already generated more supports for this print that made me hopeful that it would lend better for the slots. I also got the print time down from 8 hours to 4 by reducing the quality but keeping the infill at 20%. This lamp holder does not need to be super strong as it won’t be stressed that often, and I’d rather have it quicker if possible. 
+<br>However, I realized after I sent the redesign to print, that it did not scale properly, and therefore I would have to stop the print to quickly resize the file and re-print. I did this without incident, and once again crossed my fingers for the 7 hour print job that I would leave overnight!
+</p>
+
+<p><b>Day 4</b>
+</p>
+
+<p>The print turned out. It definitely needed some… “finishing” by my “sharp edged material refinement device”, also known as a knife, but the job got done!
+</p>
+
+<p><img src="Print2.JPG">
+</p>
+
+<p><img src="Fixer.JPG">
+</p>
+
+<p>Unfortunately, with this second print, for some reason the scaling did not include the interior cylinder that was meant to hold the lamp. Luckily this is not a critical feature for the design, but it definitely was a bummer that it would not fit as intended.
+</p>
+
+<p><img src="Disappointment.JPG">
+</p>
+
+<p>I spent a good amount of time cleaning up a lot of the supports and opening up the slots to fit in the shades. It seems that with this second print, the different structure of supports really worked in my favor, and allowed me to carve out slots for the shades.
+<br>After some further cleanup and placements, I ended up with an actual <b>THING</b>
+</p>
+
+<p><img src="Final_Project.JPG">
+</p>
+
+<p><img src="Final_Assembly.JPG">
+</p>
+
+<p><b>Reflection</b>
+</p>
+<p>I actually followed my timeline on this project, and I have to say having a clear plan (proposal), bill of materials, and task breakdown was super helpful for helping me just focus on designing and fabricating. I also enjoyed not having to sweat as I built in enough time to work on my project and account for things like having to re-print for 7 hours. 
+
+<br>I will say I also do appreciate the constraints of 3D printing, both with the design (and how crucial supports were) and the fact that it forces me to spend my time wisely. While my design was relatively simple, I did have to account for a lot more, and ultimately my shades were a smidge too big. In my initial sketches I accounted for a slight lip around each slot that would help hold in the shades in place, but again given the constraints of the ability of the printers, I was not able to accomplish that portion.
+
+<br>There is always room for improvement in any work, but I have to say this is one of the projects I am more proud of, simply because I created a vision, and plan, and executed on it. If I had more time or more resources, I would definitely want to refine this using higher quality materials, and potentially more intricate methods/designs.
+</p>
+
+
+<p><b>Shoutouts</b>
+</p>
+
+
+<p><b>Specs:</b>
+</p>
+<p>
+<br>Acrylic = .141 inches thick
+<br>Wood = .195 inches thick
+</p>
+
+<p>Acrylic Laser settings:
+<br>8% speed
+<br>100% power
+<br>100% frequency
+</p>
+
+<p>Wood Laser settings
+<br>10% speed
+<br>100% frequency
+<br>100% power
+</p>
+
+<p>3D Print: #1 (MILL)
+<br>Nozzle Temp: 220 C
+<br>Platform Temp: 35 C
+<br>PLA Filament
+</p>
+
+<p>ETA: 8 hrs to print
+<br>~105 g 
+</p>
+
+<p>3D Print: #2 (Fluke)
+<br>Nozzle Temp: 220C
+<br>Platform Temp: 35C
+<br>PLA Filament
+</p>
+
+<p>ETA: 7.5 hrs to print
+<br>~138 g 
+</p>
+
+
+<p><b>Source Files</b>
+</p>
+
+Brain Source SVG: https://www.svgrepo.com/svg/6993/brain
+Westworld Maze Source SVG (u/redditseph): https://drive.google.com/open?id=0Bx31B64ha5asR3JTcDhPMkRfd0U 
+3D Container Source: Final_Lamp.3dm
+Print: Lamp_V2.stl
+Shades: Acyrlic.ai / Wood.ai
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><b>Bill of Materials:</b>
+<br><img src="BOM.PNG" width=400></a>
+
+
+
+
+    </body>
+</html>
